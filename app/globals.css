@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+:root {
+  --sm-teal:        #004455;
+  --sm-teal-light:  #0d6a97;
+  --sm-purple:      #615171;
+  --sm-cream:       #F5F0E8;
+  --sm-sage:        #E3EDEC;
+  --sm-navy:        #001219;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  background-color: var(--sm-cream);
+  color: var(--sm-navy);
+}
